@@ -6,3 +6,5 @@ adding a third line in the document.
 
 added the fourth line of the document.
 checking if git diff is working or not.
+
+to add a new commit to the master branch
