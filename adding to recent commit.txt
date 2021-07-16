@@ -1,2 +1,4 @@
 to check if this modification can be added to the 
 most recent commit.
+
+To check if this line can be undone using the git revert command.
